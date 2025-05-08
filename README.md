@@ -12,7 +12,7 @@ Welcome to my **AI Projects** repository! This portfolio showcases a range of da
 - **Key Skills**: Feature engineering, model evaluation, classification metrics.
 
 ### 2. **Emotion Detection**
-- **Description**: Classifies emotions (e.g., happy, sad, angry) from text data using NLP.
+- **Description**: Classifies emotions (e.g., happy, sad, angry) from text data using (CNN).
 - **Tools**: Scikit-learn, TF-IDF, Naive Bayes, SVM.
 - **Key Skills**: Text preprocessing, NLP classification.
 
